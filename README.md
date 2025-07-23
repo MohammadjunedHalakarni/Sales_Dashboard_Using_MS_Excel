@@ -63,6 +63,8 @@ Region
 
 These allow users to filter and drill down into specific segments of the data.
 
+Have a look on the sales dashboard 
+
 <img width="1716" height="560" alt="Screenshot 2025-07-23 115716" src="https://github.com/user-attachments/assets/e61af874-d5a0-4369-8735-ef30d2afc305" />
 
 
